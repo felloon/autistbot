@@ -5,7 +5,7 @@ from discord.ext import commands
 import asyncio
 from itertools import cycle
 
-TOKEN= 'TOKENBOT'
+TOKEN= 'NTU4NTg4MjUyNjE4MjI3NzEz.D3fipg.IgGf81X7eIzCPi4oxomQtVT3yOo'
 
 bot = commands.Bot(command_prefix = '!')
 bot.remove_command('help')
